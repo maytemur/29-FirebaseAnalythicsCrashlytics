@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "615167381584",
+    "project_id": "fir-analyticscrashlytics-2c673",
+    "storage_bucket": "fir-analyticscrashlytics-2c673.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:615167381584:android:a8266674f79d31d8c70155",
+        "android_client_info": {
+          "package_name": "com.maytemur.firebaseanalythicscrashlytics"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "615167381584-c2b74merif814gjgsh6u7033uedm0fsr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBtxQ-RnSJg8mwWEuR0ZF6s6NVa-g1kqYg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "615167381584-c2b74merif814gjgsh6u7033uedm0fsr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
